@@ -6,6 +6,7 @@
    4. Code di Detail View ada yg ngambil di internet, harusnya udah aku tandain di comment sourcenya
    5. Gk ada metode/func untuk itung jarak dari Latitude/Longitude
    6. Ada 2 let RestoID yang harus diganti ke data yang diparsing dari list view/bubble dari AR
+   7. Constraint belom ada
 
 Sekiranya ada yg lain bilang aj :D
 */
